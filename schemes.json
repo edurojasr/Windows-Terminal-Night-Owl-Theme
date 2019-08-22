@@ -1,0 +1,46 @@
+{
+    "schemes": [
+        {
+            "background": "#011627",
+            "black": "#011627",
+            "blue": "#82AAFF",
+            "brightBlack": "#575656",
+            "brightBlue": "#82AAFF",
+            "brightCyan": "#7FDBCA",
+            "brightGreen": "#22DA6E",
+            "brightPurple": "#C792EA",
+            "brightRed": "#EF5350",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#FFEB95",
+            "cyan": "#21C7A8",
+            "foreground": "#D6DEEB",
+            "green": "#22DA6E",
+            "name": "Night Owl",
+            "purple": "#C792EA",
+            "red": "#EF5350",
+            "white": "#FFFFFF",
+            "yellow": "#ADDB67"
+        },
+        {
+            "background": "#FBFBFB",
+            "black": "#403F53",
+            "blue": "#288ED7",
+            "brightBlack": "#403F53",
+            "brightBlue": "#288ED7",
+            "brightCyan": "#2AA298",
+            "brightGreen": "#08916A",
+            "brightPurple": "#D6438A",
+            "brightRed": "#DE3D3B",
+            "brightWhite": "#979797",
+            "brightYellow": "#DAAA01",
+            "cyan": "#2AA298",
+            "foreground": "#403F53",
+            "green": "#08916A",
+            "name": "Light Owl",
+            "purple": "#D6438A",
+            "red": "#DE3D3B",
+            "white": "#F0F0F0",
+            "yellow": "#E0AF02"
+        }
+    ]
+}
