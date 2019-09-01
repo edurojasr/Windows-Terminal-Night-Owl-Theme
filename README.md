@@ -9,4 +9,4 @@ Color schemes inspired by the Night Owl theme for VS Code by Sarah Drasner
 ## How use
 
 Just copy the content in de json file to the json settings file of windows 
-terminal 
+terminal
