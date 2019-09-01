@@ -8,7 +8,7 @@ Color schemes inspired by the Night Owl theme for VS Code by Sarah Drasner
 
 ## How use
 
-Just copy the content in de json file to the json settings file of windows 
+Just copy the content in de JSON file to the JSON settings file of windows 
 terminal
 
 ![settings](settings.png)
