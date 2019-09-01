@@ -2,9 +2,9 @@
 
 Color schemes inspired by the Night Owl theme for VS Code by Sarah Drasner
 
-![Image night theme] (night_owl_windows_terminal.png)
+![Image night theme](night_owl_windows_terminal.png)
 
-![Image night theme] (light_owl_windows_terminal.png)
+![Image night theme](light_owl_windows_terminal.png)
 
 ## How use
 
