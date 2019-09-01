@@ -10,3 +10,16 @@ Color schemes inspired by the Night Owl theme for VS Code by Sarah Drasner
 
 Just copy the content in de json file to the json settings file of windows 
 terminal
+
+![settings](settings.png)
+
+I recommend not using the acrylic feature or using it with a 8+ value
+
+![settings2](settings2.png)
+
+## Cursor colors 
+
+1. for night theme: #80a4c2
+2. for light theme: #90A7B2
+
+![cursor](cursor_color.png)
