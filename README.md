@@ -18,6 +18,10 @@ for numbers so with the original color it doesn´t look good.
 Just copy the content in de JSON file to the JSON settings file of windows 
 terminal
 
+### Note:
+
+I provide the JSON files for you can copy and paste see the [schemes.json](schemes.json) file in the root directory! :)
+
 ![settings](img/settings.png)
 
 I recommend not using the acrylic feature or using it with a 8+ value
