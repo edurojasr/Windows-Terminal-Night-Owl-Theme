@@ -20,7 +20,7 @@ terminal
 
 ### Note:
 
-I provide the JSON files for you can copy and paste see the [schemes.json](schemes.json) file in the root directory! :)
+## I provide the JSON files for you can copy and paste see the [schemes.json](schemes.json) file in the root directory! :)
 
 ![settings](img/settings.png)
 
