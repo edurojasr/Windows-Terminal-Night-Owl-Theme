@@ -26,7 +26,7 @@ I provide the JSON files for you can copy and paste see the [schemes.json](schem
 
 I recommend not using the acrylic feature or using it with a 8+ value
 
-![settings2](img/settings2.png)
+![settings2](img/settings2v2.png)
 
 ## License
 
