@@ -33,6 +33,7 @@
             "brightRed": "#DE3D3B",
             "brightWhite": "#979797",
             "brightYellow": "#DAAA01",
+            "cursorColor": "#403F53",
             "cyan": "#2AA298",
             "foreground": "#403F53",
             "green": "#08916A",
