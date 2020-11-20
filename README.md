@@ -28,13 +28,6 @@ I recommend not using the acrylic feature or using it with a 8+ value
 
 ![settings2](img/settings2.png)
 
-## Cursor colors
-
-1. for night theme: #80A4C2
-2. for light theme: #90A7B2
-
-![cursor](img/cursor_color.png)
-
 ## License
 
 [MIT License](LICENSE.md)
