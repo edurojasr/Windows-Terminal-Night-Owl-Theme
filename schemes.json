@@ -1,47 +1,54 @@
-{
-    "schemes": [
-        {
-            "background": "#011627",
-            "black": "#011627",
-            "blue": "#82AAFF",
-            "brightBlack": "#969696",
-            "brightBlue": "#82AAFF",
-            "brightCyan": "#7FDBCA",
-            "brightGreen": "#22DA6E",
-            "brightPurple": "#C792EA",
-            "brightRed": "#EF5350",
-            "brightWhite": "#FFFFFF",
-            "brightYellow": "#FFEB95",
-            "cyan": "#21C7A8",
-            "foreground": "#D6DEEB",
-            "green": "#22DA6E",
-            "name": "Night Owl",
-            "purple": "#C792EA",
-            "red": "#EF5350",
-            "white": "#FFFFFF",
-            "yellow": "#ADDB67"
-        },
-        {
-            "background": "#FBFBFB",
-            "black": "#403F53",
-            "blue": "#288ED7",
-            "brightBlack": "#403F53",
-            "brightBlue": "#288ED7",
-            "brightCyan": "#2AA298",
-            "brightGreen": "#08916A",
-            "brightPurple": "#D6438A",
-            "brightRed": "#DE3D3B",
-            "brightWhite": "#979797",
-            "brightYellow": "#DAAA01",
-            "cursorColor": "#403F53",
-            "cyan": "#2AA298",
-            "foreground": "#403F53",
-            "green": "#08916A",
-            "name": "Light Owl",
-            "purple": "#D6438A",
-            "red": "#DE3D3B",
-            "white": "#F0F0F0",
-            "yellow": "#E0AF02"
-        }
-    ]
-}
+"schemes": [
+    {
+        "name": "Night Owl",
+
+        "cursorColor": "#80a4c2",
+        "selectionBackground": "#1d3b53",
+
+        "background": "#011627",
+        "foreground": "#D6DEEB",
+        
+        "black": "#011627",
+        "blue": "#82AAFF",
+        "cyan": "#21C7A8",            
+        "green": "#22DA6E",
+        "purple": "#C792EA",
+        "red": "#EF5350",
+        "white": "#FFFFFF",
+        "yellow": "#ADDB67",
+        "brightBlack": "#969696",
+        "brightBlue": "#82AAFF",
+        "brightCyan": "#7FDBCA",
+        "brightGreen": "#22DA6E",
+        "brightPurple": "#C792EA",
+        "brightRed": "#EF5350",
+        "brightWhite": "#FFFFFF",
+        "brightYellow": "#FFEB95"
+    },
+    {
+        "name": "Light Owl",
+        
+        "cursorColor": "#90A7B2",
+        "selectionBackground": "#E0E0E0",
+        
+        "background": "#FBFBFB",
+        "foreground": "#403F53",
+
+        "black": "#403F53",
+        "blue": "#288ED7",
+        "cyan": "#2AA298",
+        "green": "#08916A",
+        "purple": "#D6438A",
+        "red": "#DE3D3B",
+        "white": "#F0F0F0",
+        "yellow": "#E0AF02",
+        "brightBlack": "#403F53",
+        "brightBlue": "#288ED7",
+        "brightCyan": "#2AA298",
+        "brightGreen": "#08916A",
+        "brightPurple": "#D6438A",
+        "brightRed": "#DE3D3B",
+        "brightWhite": "#979797",
+        "brightYellow": "#DAAA01"            
+    }
+],
