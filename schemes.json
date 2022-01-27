@@ -15,8 +15,8 @@
         "purple": "#C792EA",
         "red": "#EF5350",
         "white": "#FFFFFF",
-        "yellow": "#ADDB67",
-        "brightBlack": "#969696",
+        "yellow": "#c5e478",
+        "brightBlack": "#575656",
         "brightBlue": "#82AAFF",
         "brightCyan": "#7FDBCA",
         "brightGreen": "#22DA6E",
@@ -31,7 +31,7 @@
         "cursorColor": "#90A7B2",
         "selectionBackground": "#E0E0E0",
         
-        "background": "#FBFBFB",
+        "background": "#F6F6F6",
         "foreground": "#403F53",
 
         "black": "#403F53",
@@ -49,6 +49,6 @@
         "brightPurple": "#D6438A",
         "brightRed": "#DE3D3B",
         "brightWhite": "#979797",
-        "brightYellow": "#DAAA01"            
+        "brightYellow": "#DAA01"            
     }
 ],
